@@ -11,3 +11,4 @@ Zen!!!
 10.Errors should never pass silently.
 11.Unless explicitly silenced.
 16.Although never is often better than *right* now.
+101. абра кадабра =))))
