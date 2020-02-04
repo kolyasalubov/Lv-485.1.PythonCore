@@ -12,6 +12,7 @@ Zen!!!
 11.Unless explicitly silenced.
 12.There should be one-- and preferably only one --obvious way to do it.
 16.Although never is often better than *right* now.
+18.new line from olegPron
 19.Namespaces are one honking great idea -- let's do more of those!
 20. New line from Mykola Nakonechyi
 22. New line from Kseniya Bovkush
