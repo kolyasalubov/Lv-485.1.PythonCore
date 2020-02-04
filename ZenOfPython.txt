@@ -5,9 +5,12 @@ Zen!!!
 4.Complex is better than complicated.
 5.Flat is better than nested.
 6.Sparse is better than dense.
-7.
+7.Readability counts.
 8.Special cases aren't special enough to break the rules.
 9.Although practicality beats purity.
 10.Errors should never pass silently.
 11.Unless explicitly silenced.
+15.new line from Ivan.
+16.Although never is often better than *right* now.
+22. New line from Kseniya Bovkush
 
