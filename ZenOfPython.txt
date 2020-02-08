@@ -16,8 +16,4 @@ Zen!!!
 19.Namespaces are one honking great idea -- let's do more of those!
 20. New line from Mykola Nakonechyi
 22. New line from Kseniya Bovkush
-100. fojawhrojfanh;aljrhga;owrhg
-101. абра кадабра =)))) цей рядок змінився при конфлікті
-102. дещо перевіряю -from master.
-101. абра кадабра =))))
-123 ці зміни я роблю на іншій гілці з локального репозиторію і спробую зробити пуш з цієї гілки
+
